@@ -1,0 +1,8 @@
+{
+  "portrait":[
+    "https://raw.githubusercontent.com/"
+    ],
+  "landscape":[
+     "https://raw.githubusercontent.com/"
+    ]
+}
