@@ -17,23 +17,22 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame6.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame7.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame8.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame9.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame10.webp",
+
+
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame11.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame12.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame13.webp",
+
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame14.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame15.webp",
+
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame16.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame17.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame18.webp",
+
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame19.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame20.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame21.webp",
+
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame22.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame23.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame24.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame25.webp"
+  
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/portrait/single_frame24.webp"
+  
     
     
     ],
