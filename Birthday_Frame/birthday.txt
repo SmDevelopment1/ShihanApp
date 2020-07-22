@@ -15,8 +15,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame15.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame16.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame17.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame25.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame26.png"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame25.png"
     ],
   "landscape":[
   
