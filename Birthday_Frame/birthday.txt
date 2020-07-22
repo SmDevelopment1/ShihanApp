@@ -12,10 +12,15 @@
 
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame10.png",
 
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame15.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame16.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame17.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame25.png"
+    
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame25.png",
+    
+        "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_4.webp",
+        "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_7.webp"
+    
     ],
   "landscape":[
   
@@ -41,7 +46,15 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/landscape/frame37.png",
  
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/landscape/frame39.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/landscape/frame40.png"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/landscape/frame40.png",
+    
+         "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame5.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame7.png"
     
     
     ]
