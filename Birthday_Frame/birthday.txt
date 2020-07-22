@@ -1,26 +1,23 @@
 {
   "portrait":[
-      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame1.png",
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame7.png",
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame9.png",
+   
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame2.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame3.png",
+    
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame4.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame5.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame6.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame7.png",
+
+
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame8.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame9.png",
+
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame10.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame11.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame12.png",
+
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame13.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame14.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame15.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame16.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame17.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame18.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame19.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame20.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame21.png",
+
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame22.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame23.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Frame/portrait/frame24.png",
