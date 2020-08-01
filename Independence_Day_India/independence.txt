@@ -1,0 +1,66 @@
+{
+  "portrait":[
+   
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/frame2.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/frame14.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/frame15.png",
+  
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(28).PNG",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(29).PNG",
+
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(22).PNG",
+  
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(25).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(2).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(3).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(4).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(5).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(6).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(7).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(8).webp",
+  
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(10).webp",
+
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(13).webp",
+
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(16).webp",
+
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(20).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(26).PNG",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(27).PNG",
+
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(23).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(30).PNG",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(31).PNG"
+  
+    ],
+  "landscape":[
+
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f21.png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f25.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f16.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f17.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f18.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f19.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f20.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f23.png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f22.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f24.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f26.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f27.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f28.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f29.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f30.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f31.png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f12.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f13.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f14.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f15.png",
+          "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f08.png"
+     
+    ]
+}
