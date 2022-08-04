@@ -1,4 +1,33 @@
 {
+"square":[
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-16.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-18.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-19.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-20.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-21.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-22.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-23.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-24.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-25.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/IndiaIndependnceFrams/squr2/fram-26.webp"
+    ],
+    
   "portrait":[
    
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(1).webp",
